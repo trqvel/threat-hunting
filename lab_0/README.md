@@ -1,5 +1,5 @@
 # Отчёт for Lab 0
-https://github.com/trqvel
+t1mow@yandex.ru
 
 # Лабораторная работа №0
 
