@@ -1,6 +1,6 @@
 ---
   title: "Отчёт for Lab 0"
-  author: "https://github.com/trqvel"
+  author: "t1mow@yandex.ru"
   format: 
     md: 
       output-file: README.md
