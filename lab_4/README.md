@@ -16,7 +16,7 @@ t1mow@yandex.ru
 
 1.  Программное обеспечение Windows 11 Pro
 2.  Rstudio Desktop
-3.  Интерпретатор языка R 4.4.2
+3.  Интерпретатор языка R 4.4.1
 4.  Git и Github
 5.  Аккаунт в Yandex Cloud Organization
 
