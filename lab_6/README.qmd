@@ -53,7 +53,7 @@
 
 ![](images/6.png)
 
-Ссылка на дашборд: https://datalens.yandex/vhyu868x837wi
+Ссылка на дашборд: https://datalens.yandex.cloud/vhyu868x837wi
 
 ## Оценка результата
 
